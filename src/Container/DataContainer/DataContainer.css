@@ -1,0 +1,9 @@
+.data-container {
+  width: 77%;
+  background-color: white;
+}
+
+.data-text-box {
+  margin: 25px 30px;
+  color: rgb(72, 167, 11);
+}

@@ -1,0 +1,18 @@
+.chart-container {
+  width: 77%;
+  height: 100vh;
+  background-color: white;
+}
+
+.chart-header {
+  margin: 20px;
+  text-align: center;
+  color: rgb(14, 74, 172);
+}
+
+.pie-chart {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
