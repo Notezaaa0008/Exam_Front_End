@@ -44,7 +44,7 @@ const DataComponent = () => {
           <th className="th-box">SYNONYMS</th>
         </tr>
         <tr>
-          <td className="td-box">
+          <td className="td-header-box">
             <b>cancel</b>
           </td>
           <td className="td-box">
@@ -62,7 +62,7 @@ const DataComponent = () => {
           </td>
         </tr>
         <tr>
-          <td className="td-box">
+          <td className="td-header-box">
             <b>no</b>
           </td>
           <td className="td-box">
@@ -80,7 +80,7 @@ const DataComponent = () => {
           </td>
         </tr>
         <tr>
-          <td className="td-box">
+          <td className="td-header-box">
             <b>yes</b>
           </td>
           <td className="td-box">
